@@ -2,12 +2,10 @@ package com.example.kt_less24
 
 import android.animation.ObjectAnimator
 import android.app.Activity
-import android.opengl.Visibility
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
-import android.widget.ViewAnimator
 
 class MainActivity: Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
